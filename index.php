@@ -4,5 +4,4 @@
 
 
 echo "Mon projet v1";
-echo " Erwin le bogossdu95";
-echo "bug";
+echo " Erwin le bogossdu95"
