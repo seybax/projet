@@ -1,5 +1,10 @@
 <?php
 //Mon projet
+session_start();
+
+define('URL','/projet/');
+
+
 
 
 echo "Mon projet v1.1";
